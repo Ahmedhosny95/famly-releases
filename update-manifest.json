@@ -1,8 +1,8 @@
 {
-  "versionCode": 27,
-  "versionName": "0.27.0",
-  "apkUrl": "https://github.com/Ahmedhosny95/famly-releases/releases/download/v0.27.0/famly-27.apk",
+  "versionCode": 28,
+  "versionName": "0.28.0",
+  "apkUrl": "https://github.com/Ahmedhosny95/famly-releases/releases/download/v0.28.0/famly-28.apk",
   "mandatory": false,
   "minimumVersionCode": 1,
-  "releaseNotes": "الاتجاه من اليمين لليسار + إصلاح المزامنة"
+  "releaseNotes": "زر حل التعارضات + المزامنة رجعت"
 }
