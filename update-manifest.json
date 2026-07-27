@@ -1,8 +1,8 @@
 {
-  "versionCode": 28,
-  "versionName": "0.28.0",
-  "apkUrl": "https://github.com/Ahmedhosny95/famly-releases/releases/download/v0.28.0/famly-28.apk",
+  "versionCode": 30,
+  "versionName": "0.30.0",
+  "apkUrl": "https://github.com/Ahmedhosny95/famly-releases/releases/download/v0.30.0/famly-30.apk",
   "mandatory": false,
   "minimumVersionCode": 1,
-  "releaseNotes": "زر حل التعارضات + المزامنة رجعت"
+  "releaseNotes": "القياسات بيانات مشتركة مش خاصة"
 }
