@@ -1,8 +1,8 @@
 {
-  "versionCode": 23,
-  "versionName": "0.23.0",
-  "apkUrl": "https://github.com/Ahmedhosny95/famly-releases/releases/download/v0.23.0/famly-23.apk",
+  "versionCode": 24,
+  "versionName": "0.24.0",
+  "apkUrl": "https://github.com/Ahmedhosny95/famly-releases/releases/download/v0.24.0/famly-24.apk",
   "mandatory": false,
   "minimumVersionCode": 1,
-  "releaseNotes": "إصلاح صور أفراد العيلة + الوجبات المتوازية"
+  "releaseNotes": "توصيل التحديث التلقائي"
 }
