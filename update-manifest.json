@@ -1,8 +1,8 @@
 {
-  "versionCode": 34,
-  "versionName": "0.34.0",
-  "apkUrl": "https://github.com/Ahmedhosny95/famly-releases/releases/download/v0.34.0/famly-34.apk",
+  "versionCode": 36,
+  "versionName": "0.36.0",
+  "apkUrl": "https://github.com/Ahmedhosny95/famly-releases/releases/download/v0.36.0/famly-36.apk",
   "mandatory": false,
   "minimumVersionCode": 1,
-  "releaseNotes": "رفع صور الوجبات"
+  "releaseNotes": "رفع الصور مثبت من التطبيق"
 }
