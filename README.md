@@ -1,0 +1,1 @@
+Famly release binaries. update-manifest.json is polled by the app.
