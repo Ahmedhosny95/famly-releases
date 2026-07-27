@@ -1,8 +1,8 @@
 {
-  "versionCode": 24,
-  "versionName": "0.24.0",
-  "apkUrl": "https://github.com/Ahmedhosny95/famly-releases/releases/download/v0.24.0/famly-24.apk",
+  "versionCode": 25,
+  "versionName": "0.25.0",
+  "apkUrl": "https://github.com/Ahmedhosny95/famly-releases/releases/download/v0.25.0/famly-25.apk",
   "mandatory": false,
   "minimumVersionCode": 1,
-  "releaseNotes": "توصيل التحديث التلقائي"
+  "releaseNotes": "تجاوز كاش المانيفست"
 }
