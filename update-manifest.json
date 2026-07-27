@@ -1,8 +1,8 @@
 {
-  "versionCode": 37,
-  "versionName": "0.37.0",
-  "apkUrl": "https://github.com/Ahmedhosny95/famly-releases/releases/download/v0.37.0/famly-37.apk",
+  "versionCode": 38,
+  "versionName": "0.38.0",
+  "apkUrl": "https://github.com/Ahmedhosny95/famly-releases/releases/download/v0.38.0/famly-38.apk",
   "mandatory": false,
   "minimumVersionCode": 1,
-  "releaseNotes": "تنبيه واضح لو الصورة ما اترفعتش"
+  "releaseNotes": "صورة الفرد تظهر في صفحته"
 }
