@@ -1,8 +1,8 @@
 {
-  "versionCode": 31,
-  "versionName": "0.31.0",
-  "apkUrl": "https://github.com/Ahmedhosny95/famly-releases/releases/download/v0.31.0/famly-31.apk",
+  "versionCode": 32,
+  "versionName": "0.32.0",
+  "apkUrl": "https://github.com/Ahmedhosny95/famly-releases/releases/download/v0.32.0/famly-32.apk",
   "mandatory": false,
   "minimumVersionCode": 1,
-  "releaseNotes": "بذر القياسات عند كل تشغيل"
+  "releaseNotes": "رفع صور الأفراد أونلاين"
 }
