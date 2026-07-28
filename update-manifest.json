@@ -1,8 +1,8 @@
 {
-  "versionCode": 44,
-  "versionName": "0.44.0",
-  "apkUrl": "https://github.com/Ahmedhosny95/famly-releases/releases/download/v0.44.0/famly-44.apk",
+  "versionCode": 45,
+  "versionName": "0.45.0",
+  "apkUrl": "https://github.com/Ahmedhosny95/famly-releases/releases/download/v0.45.0/famly-45.apk",
   "mandatory": false,
   "minimumVersionCode": 1,
-  "releaseNotes": "تحديث Famly 0.44.0"
+  "releaseNotes": "تحديث Famly 0.45.0"
 }
